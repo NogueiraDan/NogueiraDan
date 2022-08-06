@@ -1,5 +1,5 @@
 - 👋 Olá eu sou Daniel Nogueira (@NogueiraDan), sou graduando em Analise e Desenvolvimento de Sistemas.
-- 👀 Minha área de interesse é o Front end, porém também curto o Back end.
+- 👀 Sou aspirante Tanto do Front end quanto do Back end.
 - 🌱 Estou costumeiramente lendo, estudando e aprendendo sobre JavaScript, ReactJS, NodeJS, Python, dentre outras tecnologias.
 - 📫 Meu instagram: @devnogueira.js
 

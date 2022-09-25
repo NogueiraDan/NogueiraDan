@@ -1,6 +1,6 @@
 - 👋 Olá eu sou Daniel Nogueira (@NogueiraDan), sou graduando em Analise e Desenvolvimento de Sistemas.
 - 👀 Sou aspirante Tanto do Front end quanto do Back end.
-- 🌱 Estou costumeiramente lendo, estudando e aprendendo sobre JavaScript, ReactJS, NodeJS, Python, dentre outras tecnologias.
+- 🌱 Minha stack é JavaScript, ReactJS, NodeJS, GraphQL, dentre outras tecnologias.
 - 📫 Meu instagram: @devnogueira.js
 
 <!---

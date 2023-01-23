@@ -1,5 +1,4 @@
-- 👋 Olá eu sou Daniel Nogueira (@NogueiraDan), sou graduando em Analise e Desenvolvimento de Sistemas.
-- 👀 Sou Quality Analyst & Dev Front End.
+- 👋 Olá eu sou Daniel Nogueira. Sou Quality Analyst & Dev Front End.
 - 🌱 Minha stack é JavaScript, ReactJS, NodeJS, MongoDB & Firebase.
 
 <!---

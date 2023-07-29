@@ -1,5 +1,5 @@
 - 👋 Olá eu sou Daniel Nogueira. Sou Quality Analyst & Dev Front End.
-- 🌱 Minha stack é JavaScript: React, Vue, Next, Nuxt, React Native, NodeJS, Banco(MongoDB, PostgreSQL & Firebase).
+- 🌱 Minha stack é JavaScript/Typescript: React, Vue, Next, Nuxt, React Native, NodeJS, Banco(MongoDB, PostgreSQL & Firebase).
 
 <!---
 NogueiraDan/NogueiraDan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

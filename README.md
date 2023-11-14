@@ -1,26 +1,32 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Minha paixão pela tecnologia e inovação me impulsiona a criar soluções web que geram impacto, e ao longo da minha jornada, como <strong>Desenvolvedor Web & QA</strong> tive a oportunidade de criar aplicativos web, landing pages, e conduzir testes de qualidade em e-commerce.<br>
+  # Bem-vindo ao Meu Perfil! 👋
+
+Olá! Sou [Seu Nome], um entusiasta da tecnologia e desenvolvedor web. Minha paixão me levou a criar soluções impactantes, incluindo aplicativos web, landing pages e testes de qualidade em e-commerce.
+
+## 💻 Tecnologias
+
+- **Linguagens:** Javascript/Typescript 🚀
+- **Ferramentas:** React, Node, Vue, Next, Nuxt, Nest, React Native 🛠️
+
+## 🌐 Projetos Destacados
+
+1. 🚀 [Projeto 1](link_do_projeto_1) - Breve descrição e impacto.
+2. 💡 [Projeto 2](link_do_projeto_2) - Destaque os aspectos interessantes.
+
+## 🤝 Conecte-se Comigo!
+
+Vamos trocar experiências e discutir oportunidades:
+
+- **E-mail:** [SeuEmail@gmail.com](mailto:SeuEmail@gmail.com)
+- **LinkedIn:** [Seu LinkedIn](link_do_seu_perfil_no_LinkedIn)
+
+## 🚀 Let's Code Together!
+
+Interessado em colaborar ou trocar ideias? Estou pronto para embarcar nessa jornada tecnológica com você! Vamos criar algo incrível!
+
+![GIF de código sendo digitado](link_do_seu_gif_gif)
+
 </p>
 
-<p align="left">
-  🦄 Linguagens: <strong>Javascript/Typescript</strong>
-</p>
-
-<p align="left">
-  💼 Ferramentas: <strong>React, Node, Vue, Next, Nuxt, Nest, React Native</strong>
-</p>
-
-<p align="left">
-  💌  Vamos conectar, trocar experiências e discutir oportunidades: ⤵️
-</p>
-
-<p align="left">
-  <a href="#" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
-
-  <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-nogueira-496813222/" alt="LinkedIn"/></a>
-
-</p>

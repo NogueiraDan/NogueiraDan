@@ -17,8 +17,8 @@ Olá! Sou Daniel, um entusiasta da tecnologia e desenvolvedor web. Minha paixão
 
 Vamos trocar experiências e discutir oportunidades:
 
-- **E-mail:** [SeuEmail@gmail.com](mailto:silvanogueira3460@gmail.com)
-- **LinkedIn:** [Seu LinkedIn](https://www.linkedin.com/in/daniel-nogueira-496813222/)
+- **E-mail:** [Email](mailto:silvanogueira3460@gmail.com)
+- **LinkedIn:** [Perfil do LinkedIn](https://www.linkedin.com/in/daniel-nogueira-496813222/)
 
 ## 🚀 Let's Code Together!
 

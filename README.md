@@ -5,11 +5,11 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: **Javascript/Typescript**
+  🦄 Linguagens: <strong>Javascript/Typescript</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: **React, Node, Vue, Next, Nuxt, Nest, React Native**
+  💼 Ferramentas: <strong>React, Node, Vue, Next, Nuxt, Nest, React Native</strong>
 </p>
 
 <p align="left">

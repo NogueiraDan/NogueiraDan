@@ -1,32 +1,30 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  #Bem-vindo ao Meu Perfil! 👋
+# Bem vindo ao meu perfil! 👋🏻  
 
-Olá! Sou [Seu Nome], um entusiasta da tecnologia e desenvolvedor web. Minha paixão me levou a criar soluções impactantes, incluindo aplicativos web, landing pages e testes de qualidade em e-commerce.
+  Olá! Sou Daniel, um entusiasta da tecnologia e desenvolvedor web. Minha paixão me levou a criar soluções impactantes, incluindo aplicativos web, landing pages e testes de qualidade em e-commerce.
 
 ## 💻 Tecnologias
 
 - **Linguagens:** Javascript/Typescript 🚀
-- **Ferramentas:** React, Node, Vue, Next, Nuxt, Nest, React Native 🛠️
+- **Ferramentas:** React, Node, Vue, Next, Nuxt, Nest, React Native, Jest 🛠️
 
 ## 🌐 Projetos Destacados
 
-1. 🚀 [Projeto 1](link_do_projeto_1) - Breve descrição e impacto.
-2. 💡 [Projeto 2](link_do_projeto_2) - Destaque os aspectos interessantes.
+1. 🚀 [Projeto 1](https://github.com/NogueiraDan/customer-management-api) - Essa é uma API criada com NestJS, TypeORM, SQLITE e Custom Exceptions, para cadastrar Psicólogos, Clientes do profissional, bem como os Agendamentos dos clientes daquele profissional. 
+2. 💡 [Projeto 2](https://github.com/NogueiraDan/appReceitas)- Este é um aplicativo desenvolvido em React Native & Expo, para listar uma serie de receitas culinárias. O backend responsavel por alimentar o app também é autoral (foi desenvolvido um BFF), e conta com mais de 100 Receitas oriundas de um JSON alimentado por scrapping e povoamento manual.
 
 ## 🤝 Conecte-se Comigo!
 
 Vamos trocar experiências e discutir oportunidades:
 
-- **E-mail:** [SeuEmail@gmail.com](mailto:SeuEmail@gmail.com)
-- **LinkedIn:** [Seu LinkedIn](link_do_seu_perfil_no_LinkedIn)
+- **E-mail:** [SeuEmail@gmail.com](mailto:silvanogueira3460@gmail.com)
+- **LinkedIn:** [Seu LinkedIn](https://www.linkedin.com/in/daniel-nogueira-496813222/)
 
 ## 🚀 Let's Code Together!
 
 Interessado em colaborar ou trocar ideias? Estou pronto para embarcar nessa jornada tecnológica com você! Vamos criar algo incrível!
-
-![GIF de código sendo digitado](link_do_seu_gif_gif)
 
 </p>
 

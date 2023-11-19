@@ -5,7 +5,7 @@ Olá! Sou Daniel, um entusiasta da tecnologia e desenvolvedor web. Minha paixão
 
 ## 💻 Tecnologias
 
-- **Linguagens:** Javascript/Typescript 🚀
+- **Linguagens:** Javascript/Typescript  | Java 🚀
 - **Ferramentas:** React, Node, Vue, Next, Nuxt, Nest, React Native, Jest 🛠️
 
 ## 🌐 Projetos Destacados

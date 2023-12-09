@@ -10,7 +10,7 @@ Olá! Sou Daniel, um entusiasta da tecnologia e desenvolvedor web. Minha paixão
 
 ## 🌐 Projetos Destacados
 
-1. 🚀 [Projeto 1](https://github.com/NogueiraDan/customer-management-api) - Essa é uma API criada com NestJS, TypeORM, SQLITE e Custom Exceptions, para cadastrar Psicólogos, Clientes do profissional, bem como os Agendamentos dos clientes daquele profissional. 
+1. 🚀 [Projeto 1](https://github.com/NogueiraDan/customer-management-front) - Frontend do Sistema desenvolvido para cadastro de Profissionais (psicólogos que sublocam salas)
 2. 💡 [Projeto 2](https://github.com/NogueiraDan/appReceitas)- Este é um aplicativo desenvolvido em React Native & Expo, para listar uma serie de receitas culinárias. O backend responsavel por alimentar o app também é autoral (foi desenvolvido um BFF), e conta com mais de 100 Receitas oriundas de um JSON alimentado por scrapping e povoamento manual.
 
 ## 🤝 Conecte-se Comigo!

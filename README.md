@@ -10,10 +10,9 @@ Olá! Sou Daniel, um entusiasta da tecnologia e desenvolvedor web. Minha paixão
 
 ## 🌐 Projetos Destacados
 
-1. 💡 [Projeto 1](https://psiboard.vercel.app/) - Projeto de um Sistema para Psicólogos que atendem sublocando consultório, para cadastro dos mesmos, dos clientes, bem como marcação (e remarcação) dos agendamentos dos clientes do profissional.(Versão 1 do sistema, estou trabalhando em melhorias para uma V2)
-2. 💡 [Projeto 2](https://github.com/NogueiraDan/appReceitas)- Este é um aplicativo desenvolvido em React Native & Expo, para listar uma serie de receitas culinárias. O backend responsavel por alimentar o app também é autoral (foi desenvolvido um BFF), e conta com mais de 100 Receitas oriundas de um JSON.
-3. 💡 [Projeto 3](https://github.com/NogueiraDan/dashboard) - Projeto de um Dashboard de Controle de usuários e estoque de produtos, com filtro por categorias de produtos, marcas, e perfis de usuários. Em breve diferentes níveis de acesso
-
+1. 💡 [Projeto 1](https://psiboard.vercel.app/) - Sistema de agendamento para psicólogos que atendem sublocando sala de consultório. Ele permite o profissional realizar o seu cadastro, o cadastro dos pacientes, e a marcação (remarcação também) dos agendamentos dos pacientes do profissional seguindo as regras de negócio do dominio escolhido.
+2. 💡 [Projeto 2](https://github.com/NogueiraDan/appReceitas)- Desenvolvi um aplicativo em React Native & Expo que lista uma vasta coleção de receitas culinárias. Projetei também o backend responsável por alimentar o app, que consta com mais de 100 Receitas oriundas de um JSON alimentado por povoamento manual. Já fiz alguns builds deste aplicativo para testá-lo buildado e em produção em smartphones reais
+3. 💡 [Projeto 3](https://github.com/NogueiraDan/dashboard) - Projetei um Dashboard de Controle de usuários e estoque de produtos que permite que seja feito um filtro por categorias de produtos, marcas e perfis de usuário para distintos níveis de acesso ao sistema. O projeto foi pensando em um estabelecimento (farmácia ou outro), que precise ter vários produtos e funcionários distintos para administrarem.
 ## 🤝 Conecte-se Comigo!
 
 Vamos trocar experiências e discutir oportunidades:

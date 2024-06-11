@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-Desenvolvedor Web com 2 anos de experiência com Javascript e sua stack como: React.js, Vue.js, React Native e Node.js, atuando com aplicações web dinâmicas e eCommerces e contribuições em projetos Fullstack criando interfaces de usuário responsivas e consumindo e atuando com APIs REST. Demonstrando forte capacidade de trabalho em equipe e contribuindo para o que o desenvolvimento seja guiado pelos critérios de aceite de cada projeto.
+Desenvolvedor Web com experiência em Javascript/TypeScript e sua stack como: React.js, Vue.js, React Native e Node.js, atuando com aplicações web e eCommerces e contribuições em projetos Fullstack criando interfaces de usuário responsivas e atuando com APIs REST. Demonstrando forte capacidade de trabalho em equipe e contribuindo para o que o desenvolvimento seja guiado pelos critérios de aceite de cada projeto. 
 
 ## 💻 Tecnologias
 

@@ -10,7 +10,7 @@ Desenvolvedor Web com experiência em Javascript/TypeScript e sua stack como: Re
 
 ## 🌐 Projetos Destacados
 
-1. 💡 [Projeto 1](https://psiboard.vercel.app/) -  sistema de cadastro de psicólogos que atendem sublocando salas de consultório, com cadastro do profissional, pacientes, marcação e remarcação de agendamentos. Desenvolvido com React.js, NestJS, TypeScript e PostgreSQL. Também utilizei Docker dockerizar o backend API em um container.
+1. 💡 [Projeto 1](https://github.com/NogueiraDan/psiboard) -  Sistema de cadastro de psicólogos que atendem sublocando salas de consultório, com cadastro do profissional, pacientes, marcação e remarcação de agendamentos. Desenvolvido com React.js, NestJS, TypeScript e PostgreSQL. Também utilizei Docker dockerizar o backend API em um container.
 2. 💡 [Projeto 2](https://github.com/NogueiraDan/appReceitas)- Desenvolvi um aplicativo com React Native e Expo, de receitas culinárias oriundas de um backend projetado por mim também com Node.js e Express, que alimenta o aplicativo com mais de 100 receitas oriundas de um JSON. Já fiz builds deste aplicativo para testá-lo buildado e em produção em smartphones reais.
 3. 💡 [Projeto 3](https://github.com/NogueiraDan/dashboard) - Projetei um Dashboard de Controle de usuários e estoque de produtos que permite que seja feito um filtro por categorias de produtos, marcas e perfis de usuário para distintos níveis de acesso ao sistema. O projeto foi pensando em um estabelecimento (farmácia ou outro), que precise ter vários produtos e funcionários distintos para administrarem.
 

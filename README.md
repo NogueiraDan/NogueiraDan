@@ -6,7 +6,7 @@ Desenvolvedor Web com experiência em Javascript/TypeScript e sua stack como: Re
 ## 💻 Tecnologias
 
 - **Linguagens:** Javascript/Typescript, Java 
-- **Ferramentas:** React.js, Node.js, Vue.js, Next.js, Nuxt.js, NestJS, React Native, Vitest, Cypress, Tailwind, Styled-Components, PostgreSQL, MongoDB, Docker, Docker Compose, CI/CD
+- **Ferramentas:** React.js, Node.js, Vue.js, Next.js, Nuxt.js, NestJS, Spring Boot, React Native, Vitest, Cypress, Tailwind, Styled-Components, PostgreSQL, MongoDB, Docker, Docker Compose, CI/CD
 
 ## 🌐 Projetos Destacados
 

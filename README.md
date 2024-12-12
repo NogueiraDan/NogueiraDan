@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-Sou desenvolvedor Full Stack com experiência em projetos usando React.js, Vue.js, Node.js, e Spring Boot. Tenho habilidade em criar interfaces intuitivas, automação de testes e soluções com microsserviços, além de conhecimento em Docker, Azure e bancos de dados.
+Desenvolvedor Fullstack com experiência em sistemas web, automação de testes e soluções em microsserviços, utilizando de React, Node e Spring Boot, além de experiência com ferramentas como Docker, Redis, Azure e bancos de dados Relacionais e Não Relacionais.
 Destaco-me pela boa comunicação e trabalho em equipe, buscando sempre resolver problemas de forma eficiente. Estou em busca de desafios que me permitam crescer profissionalmente e contribuir com soluções inovadoras.
 
 ## 💻 Tecnologias

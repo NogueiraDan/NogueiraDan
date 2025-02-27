@@ -14,7 +14,7 @@ Destaco-me pela boa comunicação e trabalho em equipe, buscando sempre resolver
 Vamos trocar experiências e discutir oportunidades:
 
 - **E-mail:** [Email](mailto:silvanogueira3460@gmail.com)
-- **LinkedIn:** [Perfil do LinkedIn](https://www.linkedin.com/in/daniel-nogueira-496813222/)
+- **LinkedIn:** [Perfil do LinkedIn](https://www.linkedin.com/in/daniel-nogueira99/)
 
 ## 🚀 Let's Code Together!
 
